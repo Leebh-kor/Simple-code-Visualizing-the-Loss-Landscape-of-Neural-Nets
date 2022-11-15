@@ -60,4 +60,3 @@ If you set a high resolution, you can get visualization results similar to paper
 <tr><td><img src = "fig\nsresnet56_3D_surface.png" width="700px" height="500px"></td></tr>
 <tr><td><div align="center">Loss surface of ResNet56-NS, Test error : 18.09% </td></tr>
 </table>
-"# Simple-code-Visualizing-the-Loss-Landscape-of-Neural-Nets" 
